@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lahacks22/static/css/main.ed6ba4ef.css",
+    "main.js": "/lahacks22/static/js/main.d10be6d5.js",
+    "static/js/787.aa37c91a.chunk.js": "/lahacks22/static/js/787.aa37c91a.chunk.js",
+    "static/media/montage_sequence_2_1.mp4": "/lahacks22/static/media/montage_sequence_2_1.430b496161be4cd0d413.mp4",
+    "index.html": "/lahacks22/index.html",
+    "main.ed6ba4ef.css.map": "/lahacks22/static/css/main.ed6ba4ef.css.map",
+    "main.d10be6d5.js.map": "/lahacks22/static/js/main.d10be6d5.js.map",
+    "787.aa37c91a.chunk.js.map": "/lahacks22/static/js/787.aa37c91a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed6ba4ef.css",
+    "static/js/main.d10be6d5.js"
+  ]
+}
