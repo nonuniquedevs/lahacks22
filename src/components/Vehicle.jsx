@@ -356,7 +356,6 @@ class Vehicle extends Component {
 
     return (
       <Box className="App" sx={{ height: "100vh", width: "100vw", pt: 10 }}>
-        <h1>Vehicle</h1>
         <Box
           sx={{
             display: "grid",
@@ -560,7 +559,7 @@ class AutocompleteApiComponent extends Component {
           <list>
             <GoogleMap
               id="searchbox-example"
-              mapContainerStyle={{ height: "800px", width: "400px" }}
+mapContainerStyle={{ height: "500px", width: "600px", }}
               zoom={2.5}
               center={{ lat: 38.685, lng: -115.234 }}
             >
